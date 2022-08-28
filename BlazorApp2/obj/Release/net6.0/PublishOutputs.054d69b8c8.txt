@@ -1,0 +1,1 @@
+D:\Working\Blazor\BlazorApp2\BlazorApp2\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config
